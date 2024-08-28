@@ -1,4 +1,4 @@
-This file contains helper commands for Chapter 1.
+This file contains helper commands for Chapter 1. 
 
 * To open a new SQLite Session, type the following in the terminal
 sqlite3
@@ -7,7 +7,7 @@ sqlite3
 .open AdventureWorks.db 
 
 * To see the current database connection
-.database
+.database  
 
 * SQL command to view all tables in the database
 Select name from sqlite_master 
